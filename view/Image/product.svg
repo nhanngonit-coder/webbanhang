@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+<rect width="800" height="500" fill="#eef2ff"/>
+<rect x="160" y="120" width="480" height="260" rx="25" fill="#111827"/>
+<circle cx="400" cy="250" r="85" fill="#2563eb"/>
+<circle cx="400" cy="250" r="48" fill="#eef2ff"/>
+<text x="400" y="430" text-anchor="middle" font-family="Arial" font-size="34" fill="#111827">PC GEAR</text>
+</svg>
